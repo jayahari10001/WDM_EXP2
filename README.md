@@ -1,5 +1,5 @@
 ### EX2 Generating Association Rules for Employee dataset using Apriori Algorithm
-### DATE: 
+### DATE:21/2/23
 ### AIM: To generate associate rules for the employee dataset using Apriori Algorithm.
 ### Description:
 In data mining, association rule learning is a popular and well researched method for discovering interesting
@@ -43,6 +43,17 @@ G40,high,yes,excellent,yes
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
 
+Training Data Set -> Buying Table
+
+![image](https://github.com/nithish143257/WDM_EXP2/assets/113762839/13606479-2e67-4fef-b0d2-9f31c438ca6a)
+
+Training Data Set -> Banking Table
+
+![image](https://github.com/nithish143257/WDM_EXP2/assets/113762839/b2a86230-3c3c-4ca2-9eb5-4757a3bcd1c6)
+
+Training Data Set -> Employee Table
+
+![image](https://github.com/nithish143257/WDM_EXP2/assets/113762839/4956d4e4-ebce-4a13-8c40-26aa47eba2a2)
 
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
@@ -54,4 +65,17 @@ G40,high,yes,excellent,yes
 
 ### OUTPUT:
 
-### RESULT: 
+Buying Table
+
+![image](https://github.com/nithish143257/WDM_EXP2/assets/113762839/43bafe01-5f6d-4934-88e5-4a0d85e7d370)
+
+Banking Table
+
+![image](https://github.com/nithish143257/WDM_EXP2/assets/113762839/e6d0a2b0-db90-46ad-9bc1-a8a9bfba9904)
+
+Employee Table
+
+![image](https://github.com/nithish143257/WDM_EXP2/assets/113762839/d29e887d-6a51-4543-a5aa-814d51e76ab0)
+
+
+### RESULT: Thus this program has been successfully executed.
